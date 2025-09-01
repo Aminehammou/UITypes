@@ -27,7 +27,7 @@
 #define AntiqueWhite	RGB565(250, 235, 215)
 #define Aqua	RGB565(0, 255, 255)
 #define Aquamarine RGB565(127, 255, 212)
-#define Black RGB565(0, 0, 0)
+#define Noir RGB565(0, 0, 0)
 #define FloralBlanc RGB565(255, 250, 240)
 #define GrisArdoise RGB565(112, 128, 144)
 #define PrintempsVert RGB565(0, 255, 127)
